@@ -10,6 +10,7 @@ This project showcases an interactive Power BI dashboard designed to analyze and
 - Insights.pbix → Additional insights and analysis.  
 - Dashboard.png → Preview of the dashboard.  
 - Preview.png → Photo of Insights.
+- Exam.SQL → SQL File.
 
 ---
 
