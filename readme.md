@@ -24,7 +24,7 @@ This project showcases an interactive Power BI dashboard designed to analyze and
 
 ## 🖼️ Dashboard
 ![Daashboard]()
-![Preview]()
+![Preview](Preview.png)
 
 ---
 
