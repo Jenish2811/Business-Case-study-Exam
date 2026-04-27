@@ -11,6 +11,7 @@ This project showcases an interactive Power BI dashboard designed to analyze and
 - Dashboard.png → Preview of the dashboard.  
 - Preview.png → Photo of Insights.
 - Exam.SQL → SQL File.
+- readme.file.
 
 ---
 
